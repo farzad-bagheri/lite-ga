@@ -1,0 +1,18 @@
+{
+  "name": "lite-ga",
+  "version": "0.0.1",
+  "description": "A lite implementation of genetic algorithm",
+  "main": "index.js",
+  "types": "/dist/index.d.ts",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Genetic",
+    "GA",
+    "Evolve"
+  ],
+  "author": "Farzad Baghery",
+  "license": "ISC"
+}
